@@ -1,0 +1,26 @@
+.fillColor {
+ 
+  color: rgb(223, 223, 7);
+}
+
+
+
+.starsList {
+  width: 30%;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  margin: 0 auto;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+li svg {
+
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 2px;
+  color: rgb(199, 195, 195);
+  
+}
